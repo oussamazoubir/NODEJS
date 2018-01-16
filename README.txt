@@ -1,0 +1,1 @@
+script js qui affichera sur la console le dossier courant (équivalent à pwd en linux) puis créera un dossier "monDossier" à condition que celui-ci n'existe pas déjà
